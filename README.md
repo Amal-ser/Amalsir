@@ -61,14 +61,14 @@ $ node julie.js
   <p align="center">
   <a href="httsp://github.com/Amal-ser/Amalser">
     
-<a href="https://github.com/cyberchekuthan/followers">
-<img src="https://img.shields.io/github/repo-size/cyberchekuthan/Amalser_v2?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Amal-ser/followers">
+<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/cyberchekuthan/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/cyberchekuthan?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/cyberchekuthan/Amalser_v2?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/cyberchekuthan/Amalser_v2?color=blue&style=flat-square"></a>
-<a href="https://github.com/cyberchekuthan/Amalser_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/cyberchekuthan/Amalser_v2?label=Watchers&color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
