@@ -89,12 +89,7 @@ Click WA logo to Join Support Group 👇
 > Deploy Your Bot On Heroku ✏
 
 <div align="left"><a href="http://heroku.com/deploy?template=https://github.com/MhmdMukarram/Red-Alpha"><img src="https://i.ibb.co/WPRfjrZ/c6eb7d6b6606.png" width="150" ></a></div>
-   
-   If you need help
-you can contact 👇🏻👇🏻 
-```
-**[![RED ALPHA](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://wa.me/message/5CCUQ6RG7BKBN1?text=Can%20you%20help%20bro)**
-      
+       
       
 <br>
 <br >
