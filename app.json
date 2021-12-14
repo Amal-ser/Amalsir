@@ -30,6 +30,26 @@
             "required": false,
             "value": "true"
         },
+        "V_HEADER": {
+            "description": "Set the Header name logo",
+            "required": true,
+            "value": "YOUR HEADER HERE"
+        },
+        "VERIFIED": {
+            "description": "Give with number jid",
+            "required": true,
+            "value": "0@s.whatsapp.net"
+        },
+        "ALL_IMG": {
+            "description": "Set the logo",
+            "required": true,
+            "value": "https://telegra.ph/file/10b9d1ce0b50ae38fc6df.jpg"
+        },
+        "DIALOGUE": {
+            "description": "set the Dialouge",
+            "required": true,
+            "value": "Muthe i love you"
+        },
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
