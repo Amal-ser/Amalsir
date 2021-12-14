@@ -6,7 +6,7 @@ const Language = require('../language');
 const Lang = Language.getString('asena');
 let sourav = Config.WORKTYPE == 'public' ? false : true
 
-New.addCommand({pattern: 'menu ?(.*)', fromMe: sourav, dontAddCommandList: true}, (async (message, match) => {
+New.addCommand({pattern: 'cmnd ?(.*)', fromMe: sourav, dontAddCommandList: true}, (async (message, match) => {
         var img = await image.skbuffer(Config.LOGOSK)
         var CMD_HELP = '';
         if (match[1] === '') {
