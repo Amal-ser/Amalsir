@@ -11,7 +11,6 @@ const fs = require("fs")
 const image = require('../buffer');
 const Language = require('../language');
 const Lang = Language.getString('_asena');
-var img = await image.skbuffer(Config.LOGOSK)
 var skcmd, sk1,sk2,sk3,sk4
 var split = Config.ALLEMOJI.split('/');
          sk4 = split[4];
