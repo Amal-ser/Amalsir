@@ -7,7 +7,7 @@ const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const Language = require('../language');
 const Lang = Language.getString('filters');
-
+const image = require('../buffer');
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
@@ -80,7 +80,8 @@ if(pattern.test(message.message)){
 }));
 }
     if (Config.GEAR == 'two') {    
-    Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {   
+    Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
+        var img = await image.skbuffer(Config.LOGOSK)   
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
@@ -95,7 +96,7 @@ const array = ['Hi','pro','coming','alive','list','go','menu','koii','update','w
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-       await message.client.sendMessage(message.jid, fs.readFileSync('./html/Amalserv2/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: { key: { participant : '0@s.whatsapp.net'},message: {orderMessage: {itemCount : 123,status: 1,surface : 1,message: Config.SKV,orderTitle: `THIS IS NEW?`,sellerJid: Config.JID }}}});
+       await message.client.sendMessage(message.jid, fs.readFileSync('./html/Amalserv2/' + a + '.mp3'), MessageType.audio,{ mimetype: Mimetype.mp4Audio,duration: Config.SAID, ptt: true,quoted: { key: { participant : '0@s.whatsapp.net'},message: {orderMessage: {itemCount : 123,status: 1,surface : 1,message: Config.SKV,orderTitle: `THIS IS NEW?`,thumbnail: img, sellerJid: Config.JID }}}});
 }
 });
     }
