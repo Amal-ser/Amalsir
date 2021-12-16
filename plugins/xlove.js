@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *githublink : https://github.com/MhmdMukarram/RED_ALPHA*
 
- *Red Alpha New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
+ *Thanks For Use Red Alpha Bot 🥰*
 `}) 
 
 }));
