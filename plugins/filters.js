@@ -44,7 +44,7 @@ Asena.addCommand({pattern: 'stop ?(.*)', fromMe: true, desc: Lang.STOP_DESC, don
     }
 }));
     
-if (Config.GEAR == 'two') {    
+if (Config.GEAR == 'text') {    
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         var img = await image.skbuffer(Config.LOGOSK)   
         if(Config.BGMFILTER){
