@@ -76,7 +76,7 @@ if(pattern.test(message.message)){
         }
     );
 }));
-}
+
 Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.STICKERP){
     let banned = jid.find( Jid => Jid === message.jid);
