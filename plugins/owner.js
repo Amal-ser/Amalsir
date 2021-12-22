@@ -1,29 +1,87 @@
-    const asena = require('../events');
+const asena = require('../events');
 
-    const {MessageType} = require('@adiwajshing/baileys');
+const {MessageType} = require('@adiwajshing/baileys');
 
-    const OWNER = "it sends details of owner"
+const OWNER = "it sends details of owner"
 
-    const GIT = "it sends links"
+const GIT = "it sends links"
 
-    const Config = require('../config');
+const Config = require('../config');
 
-    if (Config.WORKTYPE == 'private') {
-        
-    asena.addcommand({pattern: 'owner', fromMe: true, dontAdCommandList: true, desc: 'Details For Coder'}, (async (message, match) => {
+if (Config.WORKTYPE == 'private') {
+
+        asena.addCommand({pattern: 'owner', fromMe: true, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
+
     var r_text = new Array ();
-    r_text[0] = "https://i.ibb.co/vcxnxVL/IMG-20211222-WA0000.jpg";
-    r_text[1] = "https://i.ibb.co/vcxnxVL/IMG-20211222-WA0000.jpg";
-    var i = Math.floor(2*Math.random())
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '     *CODED BY Mhmd Mukarram*\n\n❀Contact me: https://t.me/realredalpha\n\n\nWhatsApp Group link 👇\n\n*https://chat.whatsapp.com/Fr7j28pVwoB7GXlnaNyI9k*\n\n\n👑My Github Hub Profile👑\n\n*https://github.com/MhmdMukarram*\n\n\nMy Bot Github\n\nhttps://github.com/MhmdMukarram/RED_ALPHA\n\n\n\nᴘᴏᴡᴇʀᴅ ʙʏ ᴿᴱᴰ ᴬᴸᴾᴴᴬ'})
+
+    
+
+    r_text[1] = "*╔═════🔴💎RED ALPHA💎🔴═════╗*\n           \n*RED-ALPHA*\n\n*owner MHMD MUKARRAM - https://wa.me/message/5CCUQ6RG7BKBN1*\n* *\n🔰WHATSAPP SUPPORT GROUP :- *https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷CREATOR: MHMD MUKARRAM*"
+
+    
+
+    await message.client.sendMessage(
+
+        message.jid,(r_text[1]), MessageType.text);
+
     }));
-    asena.addcommand({pattern: 'owner', fromMe: false, dontAdCommandList: true, desc: 'Details For Coder'}, (async (message, match) => {
+
+        asena.addCommand({pattern: 'git', fromMe: true, deleteCommand: true, desc: GIT,}, (async (message, match) => {
+
+        var r_text = new Array ();
+
+    
+
+        r_text[1] = "*Git links*\n           *\n🔴💎═RED ALPHA OWNER MHMD MUKARRAM═💎🔴*\n\n*💘 https://github.com/MhmdMukarram/Red-Alpha*\n*     *\nMY BOT DEVOLOPER*\n\n*⚜https://github.com/mhmdmukrim/mhmdmukrim*    *\n\n⚜WHATSAPP CHAT GROUP LINK 2:- https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j*"
+
+    
+
+        await message.client.sendMessage(
+
+            message.jid,(r_text[1]), MessageType.text);
+
+    
+
+        }));    
+
+    }
+
+    
+
+    if (Config.WORKTYPE == 'public') {
+
+        asena.addCommand({pattern: 'owner', fromMe: false, deleteCommand: true, desc: OWNER,}, (async (message, match) => {
+
     var r_text = new Array ();
-    r_text[0] = "https://i.ibb.co/vcxnxVL/IMG-20211222-WA0000.jpg";
-    r_text[1] = "https://i.ibb.co/vcxnxVL/IMG-20211222-WA0000.jpg";
-    var i = Math.floor(2*Math.random())
-    var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '     *CODED BY Mhmd Mukarram*\n\n❀Contact me: https://t.me/realredalpha\n\n\nWhatsApp Group link 👇\n\n*https://chat.whatsapp.com/Fr7j28pVwoB7GXlnaNyI9k*\n\n\n👑My Github Hub Profile👑\n\n*https://github.com/MhmdMukarram*\n\n\nMy Bot Github\n\nhttps://github.com/MhmdMukarram/RED_ALPHA\n\n\n\nᴘᴏᴡᴇʀᴅ ʙʏ ᴿᴱᴰ ᴬᴸᴾᴴᴬ'})
+
+    
+
+    r_text[1] = "*╔═════🔴💎RED ALPHA💎🔴═════╗*\n           \n*⚜═RED ALPHA═⚜*\n\n*owner MHMD MUKARRAM - https://wa.me/message/5CCUQ6RG7BKBN1*\n* *\n🔰WHATSAPP CHAT GROUP: https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷CREATOR: MHMD MUKARRAM*"
+
+    
+
+    await message.client.sendMessage(
+
+        message.jid,(r_text[1]), MessageType.text);
+
     }));
-}
+
+        asena.addCommand({pattern: 'git', fromMe: false, deleteCommand: true, desc: GIT,}, (async (message, match) => {
+
+        var r_text = new Array ();
+
+    
+
+        r_text[1] = "*Git links*\n           *\n🔴💎═RED ALPHA OWNER MHMD MUKARRAM═💎🔴*\n\n*💘 https://github.com/MhmdMukarram/Red-Alpha*\n*     *\n💓MY BOT DEVOLOPER*\n\n*⚜https://github.com/mhmdmukrim/mhmdmukrim*    *\n\n⚜WHATSAPP CHAT GROUP LINK 2:- https://chat.whatsapp.com/Jx7f5x3wSU7D8a9ntdFB3j*"
+
+    
+
+        await message.client.sendMessage(
+
+            message.jid,(r_text[1]), MessageType.text);
+
+    
+
+        }));    
+
+    }
