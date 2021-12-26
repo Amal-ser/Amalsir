@@ -7,7 +7,7 @@ const jid = Config.DISBGM !== false ? Config.DISBGM.split(',') : [];
 const afn = Config.PLKS !== false ? Config.PLKS.split(',') : [];
 const Language = require('../language');
 const Lang = Language.getString('filters');
-const image = require('../buffer');
+const image = require('../raganork');
 
 Asena.addCommand({pattern: 'filter ?(.*)', fromMe: true, desc: Lang.FILTER_DESC, dontAddCommandList: true}, (async (message, match) => {
     match = match[1].match(/[\'\"\“](.*?)[\'\"\“]/gsm);
