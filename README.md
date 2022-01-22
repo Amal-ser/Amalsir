@@ -36,7 +36,9 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phathicusthiccy/Amal-ser.git)
 
+2nd
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://gist.github.com/Amal-ser/c42f73f853ad3c3654183a9cc018f614)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
