@@ -6,12 +6,12 @@ const fs = require('fs');
 const Config = require('../config')
 Ktb.addCommand({ pattern: 'git ?(.*)', fromMe: false, desc: 'owner number' }, (async (message, match) => {
 
-//coded by saidali
+//coded by sadali
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:Amalser [OWNER]\n' // full name
             + 'ORG:Amalser;\n' // 
-            + 'TEL;type=CELL;type=VOICE;waid=919895828468:+91 8289968468\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=917736994162:+91 7736994162\n' // WhatsApp ID + phone number
             + 'END:VCARD'
-await message.client.sendMessage(message.jid,{displayname: "Amalser [OWNER]", vcard: vcard}, MessageType.contact)
+await message.client.sendMessage(message.jid,{displayname: "WHO I AM [OWNER]", vcard: vcard}, MessageType.contact)
 }))
