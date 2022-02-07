@@ -11,7 +11,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">JUGGRU-SER</a> to make it public
+Project created by <a href="https://github.com/AK-JUGGRU">JUGGRU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -37,7 +37,7 @@ https://www.instagram.com/toxic_juggru/
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-JUGGRU/JUGGRUSER.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU/JUGGRUSER)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JUGGRU/JUGGRUSER)
   
 ### The Hard Method
 ```js
