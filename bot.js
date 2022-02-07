@@ -2,7 +2,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
-Amalser-Amal
+JUGGRU-JUGGRUSER
 */
 
 const fs = require("fs");
@@ -278,8 +278,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG === 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ JUGGRUSER ~______~*' +
+                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://www.youtube.com/channel/UC0C4MiybHKd2vB26EylS-5A*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
