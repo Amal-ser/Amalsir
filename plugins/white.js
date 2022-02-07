@@ -3,14 +3,14 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WHITE DEVIL ----»»» TERROR BOY
+JUGGRU ----»»» JUGGRUSER
 */
 
 /*
  __________   _________     ________________  
      EDUTHO BUT CREDIT THERANAM
      
-     THANKS TO AFNAN-PLK 
+     THANKS TO AMALSER
 _______  __________  ___________  ________    
 */
 
