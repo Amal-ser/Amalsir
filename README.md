@@ -68,7 +68,7 @@ $ node JUGGRUSER.js
 <img src="https://img.shields.io/github/repo-size/AK-JUGGRU/JUGGRUSER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/AK-JUGGRU/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/AK-JUGGRU?color=blue&style=flat-square"></a>
+<img title="Followers" src="https://img.shields.io/github/followers/JUGGRU?color=blue&style=flat-square"></a>
 <a href="https://github.com/AK-JUGGRU/JUGGRUSER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
 <a href="https://github.com/AK-JUGGRU/JUGGRUSER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
 <a href="https://github.com/AK-JUGGRU/JUGGRUSER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AK-JUGGRU/JUGGRUSER?label=Watchers&color=blue&style=flat-square"></a>
@@ -107,7 +107,7 @@ you can contact 👇🏻👇🏻
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz) | [JUGGRUSER](https://github.com/AK-JUGGRU) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
   </div>
     
