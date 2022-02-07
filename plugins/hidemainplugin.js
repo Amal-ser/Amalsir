@@ -1,8 +1,8 @@
-/* Amalser Bot
-Re-edit Amalser
+/* Juggruser Bot
+Re-edit Juggru
 */
 
-const Amalser = require('../events');
+const Juggru = require('../events');
 const {MessageType, GroupSettingChange, Mimetype, MessageOptions} = require('@adiwajshing/baileys');
 const fs = require('fs');
 const Config = require('../config')
@@ -14,14 +14,14 @@ var clh = { cd: 'L3Jvb3QvV2hhdHNBc2VuYUR1cGxpY2F0ZWQv', pay: '' }
 var ggg = Buffer.from(clh.cd, 'base64')
 var ddd = ggg.toString('utf-8')
 var sk1,sk2
-var split = Config.AMAL_SER.split('/');
+var split = Config.JUGGRU_SER.split('/');
          sk2 = split[1];
          sk1 = split[0];
 
 let whb = Config.WORKTYPE == 'public' ? false : true
 
-Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
-// send a buttons message!credit Amal
+Juggruser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (async (message, match) => {
+// send a buttons message!credit JUGGRU
     const buttons = [
         {buttonId: 'id1', buttonText: {displayText: sk1 }, type: 1},
         {buttonId: 'id2', buttonText: {displayText: sk2 }, type: 1}
@@ -29,7 +29,7 @@ Amalser.addCommand({pattern: 'alive', fromMe: whb, dontAddCommandList: true}, (a
       
       const buttonMessage = {
           contentText: '```'+Config.BOT+'\n\n```'+Config.ALIVEMSG+'\n',
-          footerText: 'Amalser ©',
+          footerText: 'JUGGRUSER ©',
           buttons: buttons,
           headerType: 1
       }
