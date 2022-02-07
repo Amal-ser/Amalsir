@@ -4,14 +4,14 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/V9EzbFp.jpg>
+<img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/JUGGRU-SER"><img title="Author" src="https://img.shields.io/badge/Author-JUGGRU-SER/JUGGRUSER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AK-JUGGRU">JUGGRU-SER</a> to make it public
+Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
     <br>
        | © |
         Reserved |
@@ -22,73 +22,73 @@ Project created by <a href="https://github.com/AK-JUGGRU">JUGGRU-SER</a> to make
 <div align="center"> 
 
 
-## Click Youtube logo to Watch My Free Fire Gameplay👇
+## Click Youtube logo to Watch full video and findout password in this video 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC0C4MiybHKd2vB26EylS-5A)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtu.be/Tb1B-rS52uo)
 
 
 ## Instagram  Follow ❤️
 
-https://www.instagram.com/toxic_juggru/
+https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKJUGGRU/JUGGRUSER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU/JUGGRUSER)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
 ### The Hard Method
 ```js
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/AK-JUGGRU/JUGGRUSER
-$ cd JUGGRUSER
+$ git clone https://github.com/Amal-ser/Amalser
+$ cd Amalser
 $ npm install @adiwajshing/baileys
 $ npm install chalk
-$ node JUGGRUSER.js
+$ node Amalser.js
 ```
       
 ```js
 SETUP
-$ git clone https://github.com/AK-JUGGRU/JUGGRUSER
-$ cd JUGGRUSER
+$ git clone https://github.com/Amal-ser/Amalser
+$ cd Amalser
 $ npm i
-$ node JUGGRUSER.js
+$ node Amalser.js
 ```
 
 ----
 
   <p align="center">
-  <a href="https://github.com/AK-JUGGRU/JUGGRUSER">
+  <a href="httsp://github.com/Amal-ser/Amalser">
     
-<a href="https://github.com/AK-JUGGRU/followers">
-<img src="https://img.shields.io/github/repo-size/AK-JUGGRU/JUGGRUSER?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/Amal-ser/followers">
+<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/AK-JUGGRU/followers"
-<img title="Followers" src="https://img.shields.io/github/followers/JUGGRU?color=blue&style=flat-square"></a>
-<a href="https://github.com/AK-JUGGRU/JUGGRUSER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AK-JUGGRU/JUGGRUSER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
-<a href="https://github.com/AK-JUGGRU/JUGGRUSER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AK-JUGGRU/JUGGRUSER?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/followers"
+<img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
+<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/L1XdyDg4CG29ZChSYFbXXI)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AK-JUGGRU&repo=JUGGRUSER&theme=nightowl)](https://github.com/AK-JUGGRU/JUGGRUSER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amal-ser&repo=Amalser&theme=nightowl)](https://github.com/Amal-ser/Amalser)
   </div>
     
 ### ⚠ Warning ⚠
 
 ```
 By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
-JUGGRUSER or we are not responsible for your account, 
+Amalser_v2 or we are not responsible for your account, 
 This bot is intended for the purpose of having fun with some fun commands 
 and group management with some helpfull commands.
 
@@ -100,14 +100,14 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![JUGGRUSER](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919656813724?text=Can%20you%20help%20bro)**
+**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">
     
   [![Farhan-Dqz](https://github.com/farhan-dqz.png?size=100)](https://github.com/farhan-dqz) | [![AMALSER](https://github.com/Amal-ser.png?size=100)](https://github.com/Amal-ser) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----|----
-[farhan-dqz](https://github.com/farhan-dqz) | [JUGGRUSER](https://github.com/AK-JUGGRU) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
+[farhan-dqz](https://github.com/farhan-dqz) | [AMALSER](https://github.com/Amal-ser) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules | Deploy Error Fixed
   </div>
     
