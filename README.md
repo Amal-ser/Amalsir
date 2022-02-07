@@ -34,10 +34,10 @@ https://www.instagram.com/toxic_juggru/
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-JUGGRU/JUGGRUSER.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AKJUGGRU/JUGGRUSER.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JUGGRU/JUGGRUSER)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU/JUGGRUSER)
   
 ### The Hard Method
 ```js
