@@ -137,7 +137,7 @@ if (config.WORKTYPE == 'private') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Owned by Amal*' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'*Owned by JUGGRU*' , MessageType.text, { quoted: message.data });
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text, { quoted: message.data });
@@ -282,7 +282,7 @@ else if (config.WORKTYPE == 'public') {
         }
 
         if (Config.OWNER == 'default') {
-            await message.client.sendMessage(message.jid,'*Owned by Amal*' , MessageType.text, { quoted: message.data });
+            await message.client.sendMessage(message.jid,'*Owned by JUGGRU*' , MessageType.text, { quoted: message.data });
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text, { quoted: message.data });
