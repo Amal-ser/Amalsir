@@ -37,7 +37,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-JUGGRU/JUGGRUSER.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JUGGRU/JUGGRUSER)
   
 ### The Hard Method
 ```js
