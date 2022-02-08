@@ -4,7 +4,7 @@
 <a href="#"><img title="JUGGRUSER" src="https://img.shields.io/badge/JUGGRUSER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz"><img title="Author" src="https://img.shields.io/badge/Author-JUGGRU-dqz/JUGGRUSER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
