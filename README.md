@@ -43,7 +43,7 @@ Click WA logo to Join Support Group 👇
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-JUGGRU/JUGGRUSER) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU/JUGGRUSER)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU)
   
      </div>
 <br>
