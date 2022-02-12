@@ -11,19 +11,19 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name: Amalser*
 
-*Creator number : wa.me/919895828468?text=Hii%20Amal%20Ser.%20*
+*Creator number : Wa.me/+919656813724?text=*Hey👀🖤**
 
  *To check update .update   To update Bot .update now*
 
- *Bot making video : https://youtu.be/Tb1B-rS52uo*
+ *YT CHANNEL : https://www.youtube.com/channel/UC0C4MiybHKd2vB26EylS-5A*
      
- *Instagram id: https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link*
+ *Instagram id: https://www.instagram.com/toxic_juggru/*
 
- *Yt_PASSWORD: _________(password on this video watch it full)*
+ *githublink : https://github.com/AK-JUGGRU/JUGGRUSERr*
 
- *githublink : https://github.com/Amal-ser/Amalser*
-
- *Amalser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
-`}) 
-
+ *JUGGRUSER New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
+`})
 }));
+  
+
+

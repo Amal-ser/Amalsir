@@ -176,7 +176,7 @@ Asena.addCommand({pattern: 'break ?(.*)', fromMe: true, dontAddCommandList: true
 
       if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORD, MessageType.text);
         
-      if (message.jid === '905524317852-1612300121@g.us') {
+      if (message.jid === '9656813724-1612300121@g.us') {
 
             return;
         }
@@ -432,7 +432,7 @@ if (match[1].includes(';')) {
 
       if (match[1] === '') return await message.client.sendMessage(message.jid,Lang.NEED_WORD, MessageType.text);
         
-      if (message.jid === '905524317852-1612300121@g.us') {
+      if (message.jid === '9656813724-1612300121@g.us') {
 
             return;
         }

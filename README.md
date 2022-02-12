@@ -7,11 +7,11 @@
 <img src=https://i.imgur.com/w89FHm7.jpeg>
 </p>
   <p align="center">
-<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-Amal-ser/Amalser?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Amal-ser"><img title="Author" src="https://img.shields.io/badge/Author-JUGGRU/JUGGRUSER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it public
+Project created by <a href="https://github.com/AK-JUGGRU">JUGGRUSER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,10 +34,10 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalsir.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AK-JUGGRU/JUGGRUSER.git)
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@AK-JUGGRU/JUGGRUSER)
   
 ### The Hard Method
 ```js
@@ -53,25 +53,25 @@ $ node Amalser.js
       
 ```js
 SETUP
-$ git clone https://github.com/Amal-ser/Amalser
-$ cd Amalser
+$ git clone https://github.com/AK-JUGGRU/JUGGRUSER
+$ cd JUGGRUSER
 $ npm i
-$ node Amalser.js
+$ node JUGGRUSER.js
 ```
 
 ----
 
   <p align="center">
-  <a href="httsp://github.com/Amal-ser/Amalser">
+  <a href="httsp://github.com/AK-JUGGRU/JUGGRUSER">
     
-<a href="https://github.com/Amal-ser/followers">
-<img src="https://img.shields.io/github/repo-size/Amal-ser/Amalser?color=green&label=Repo%20total%20size&style=plastic">
+<a href="https://github.com/AK-JUGGRU/followers">
+<img src="https://img.shields.io/github/repo-size/AK-JUGGRU/JUGGRUSER?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/Amal-ser/followers"
+<a href="https://github.com/AK-JUGGRU/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/Amal-ser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Amal-ser/Amalser?color=blue&style=flat-square"></a>
-<a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/AK-JUGGRU/JUGGRUSER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
+<a href="https://github.com/AK-JUGGRU/JUGGRUSER/network/members"><img title="Forks" src="https://img.shields.io/github/forks/AK-JUGGRU/JUGGRUSER?color=blue&style=flat-square"></a>
+<a href="https://github.com/AK-JUGGRU/JUGGRUSER/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/AK-JUGGRU/JUGGRUSER?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 ## 📢 Guide
@@ -100,7 +100,7 @@ No personal support will be provided / We won't spoon feed you.
 If you need help
 you can contact 👇🏻👇🏻 
 ```
-**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919895828468?text=Can%20you%20help%20bro)**
+**[![Amalser](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](http://wa.me/919656813724?text=Can%20you%20help%20bro)**
 
 ## Developers
   <div align="center">

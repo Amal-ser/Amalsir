@@ -90,9 +90,9 @@ All setvars are
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Amalser bot ❣️*
+     *JUGGRUSER BOT ❣️*
 
-*Editing And Devaloper : Amal -Amalser*
+*Editing And Devaloper : JUGGRU*
 
 *Erorr Fixing : Farhan -Julie Mwol 💌*
 

@@ -4,7 +4,7 @@ you may not use this file except in compliance with the License.
 WhatsAsena - Yusuf Usta
 Developer & Co-Founder - Phaticusthiccy
 re-edited by afnan plk
-re-edited by Amalser
+re-edited by JUGGRUSER
 */
 
 const MyPnky = require('../events');
