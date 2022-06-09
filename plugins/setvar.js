@@ -18,7 +18,7 @@ Asena.addCommand({pattern: 'setvar', fromMe: false, desc: Lang.WP}, (async (mess
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `⛦━━💘SETVAR💘━━⛦
-𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦 𝐚 Amalser 𝐛𝐨𝐭.
+𝐇𝐞𝐥𝐥𝐨👋 𝐈 𝐚𝐦  𝐓𝐈𝐍𝐒𝐎𝐍 𝐒𝐈𝐑 BOT
   
 *ẉa.me/➳Setvar*
 ■□■□■□■□■□■□■□■□■□■□
@@ -84,21 +84,21 @@ All setvars are
  To change bad word remove list
  .setvar THERI_LIST:badword,badword
 
- To change AMALSER bot name
+ To change TINSONSIR bot name
  .setvar BOT_NAME:your bot name
 
  To get a song when your number is mentioned
  .setvar TAG_REPPLY:your jid 
 
-     *happy using Amalser bot ❣️*
+     *happy using TINSON SIR bot ❣️*
 
-*Editing And Devaloper : Amal -Amalser*
+*Editing And Devaloper : TINSON -TINSONSIR*
 
-*Erorr Fixing : Farhan -Julie Mwol 💌*
+*Erorr Fixing : TSR - ITS ME 💌*
 
-*Supporting : Afnan -Pinky 💌*
+*Supporting : NJAN THANNE - ITS ME 💌*
 
-*User Support : Adhithhari ✨️*
+*User Support : AMAL SER ✨️*
 
       ═════💢💢═════
 `}) 
