@@ -214,27 +214,27 @@ var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
     _dsc = 'Tam fonksiyonel Raganork özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
-    already_on = 'Amalser yapay zekası halihazırda tüm fonksiyonları etkin.'
-    already_off = 'Amalser yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
-    succ_on = 'Amalser, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
-    succ_off = 'Amalser, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
+    already_on = 'TINSON SIR yapay zekası halihazırda tüm fonksiyonları etkin.'
+    already_off = 'TINSON SIR yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
+    succ_on = 'TINSON SIR, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
+    succ_off = 'TINSON SIR, Yarı Fonksiyonel Olarak Ayarlandı! Lütfen Biraz Bekleyin! ☑️'
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Turns on AI powered chatbot on to your account!'
-    already_on = 'Amalaer chatbot is already on.'
-    already_off = 'Amalser chatbot is currently turned off!.'
-    succ_on = 'Amalser chatbot on! Restarting to make chatbot ✅'
-    succ_off = 'Amalser chatbot off Restarting to make normal  ❤️'
+    already_on = 'TINSON SIR chatbot is already on.'
+    already_off = 'TINSON SIR chatbot is currently turned off!.'
+    succ_on = 'TINSON SIR chatbot on! Restarting to make chatbot ✅'
+    succ_off = 'TINSON SIR chatbot off Restarting to make normal  ❤️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ Amalser chatbot സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
     already_on = 'കൃത്രിമബുദ്ധി ഇതിനകം പൂർണ്ണമായി പ്രവർത്തിക്കുന്നു.'
     already_off = 'AI നിലവിൽ സെമി-ഫംഗ്ഷണൽ ആണ്.'
-    succ_on = 'Amalser പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായി തുറന്നു! കുറച്ച് കാത്തിരിക്കൂ! ✅'
-    succ_off = 'Amalser സെമി-ഫങ്ഷണൽ ആയി സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
+    succ_on = 'TINSON SIR പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായി തുറന്നു! കുറച്ച് കാത്തിരിക്കൂ! ✅'
+    succ_off = 'TINSON SIR സെമി-ഫങ്ഷണൽ ആയി സജ്ജമാക്കുക! കുറച്ച് കാത്തിരിക്കൂ! ☑️'
 }
 
-New.addCommand({ pattern: 'amalser ?(.*)', desc: _dsc, fromMe: true,dontAddCommandList: true, usage: '.amalser on / off' }, (async (message, match) => {
+New.addCommand({ pattern: 'TINSONSIR ?(.*)', desc: _dsc, fromMe: true,dontAddCommandList: true, usage: '.TINSONSIR on / off' }, (async (message, match) => {
     var eva_status = `${conf.CHATBOT}`
     if (match[1] == 'on') {
         if (eva_status == 'true') {
