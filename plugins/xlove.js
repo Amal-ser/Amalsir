@@ -9,21 +9,21 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/w89FHm7.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name: Amalser*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bot Name: TINSON SIR*
 
-*Creator number : wa.me/919895828468?text=Hii%20Amal%20Ser.%20*
+*Creator number : wa.me/917994088426?text=Hii%20TINSON%20SIR.%20*
 
  *To check update .update   To update Bot .update now*
 
- *Bot making video : https://youtu.be/Tb1B-rS52uo*
+ *TELEGRAM SUPPORT  : https://t.me/cinemapranthangroup*
      
- *Instagram id: https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link*
+ *TELEGRAM id: t.me/TinsonThomas_22*
 
- *Yt_PASSWORD: _________(password on this video watch it full)*
+ *BOT MAKING + Yt_PASSWORD: _________( https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA ) WATCH THIS VIDEO CREFULLY FOR GRTTING BOT MAKING PASSWORD*
 
- *githublink : https://github.com/Amal-ser/Amalser*
+ *githublink : BIRIYANI SHOP CLOSED *
 
- *Amalser New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
+ *TINSON SIR New Acoount Git Link Old Account Is Flagged Hope you Enjoy This Thanku 🥰*
 `}) 
 
 }));
