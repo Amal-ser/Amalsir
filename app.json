@@ -1,0 +1,25 @@
+{
+  "name": "Jessi-md",
+  "description": "Basic WhatsApp Bot",
+  "repository": "https://github.com/whiteshadowofficial/Jessi-md",
+  "logo": "https://i.ibb.co/jLnr3K9/20231025-195821.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "rpg", "games-wabot", "epic rpg"],
+  "env": {
+    "SESSION_ID": {
+      "description": "Put your session id here",
+      "required": true,
+      "value": ""
+    }
+  },
+   "buildpacks": [
+  {
+    "url": "heroku/nodejs"
+  },
+  {
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },
+  {
+    "url": "https://github.com/bogini/heroku-buildpack-graphicsmagick"
+  }    
+ ]
+}
