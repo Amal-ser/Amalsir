@@ -43,6 +43,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
  <a href='https://replit.com/https://github.com/Amal-ser/Amalsir' target="_blank"><img alt='Run Replit' src='https://img.shields.io/badge/Run Replit-000?style=for-the-badge&logo=Replit&logoColor=white'/></a>
 
 ---------
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/deployer)  
 
   ### Simple Method
   
