@@ -31,6 +31,18 @@ Project created by <a href="https://github.com/Amal-ser">Amal-ser</a> to make it
 
 https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
+ Fork the repo
+ 
+ <a href='https://github.com/whiteshadowofficial/Jessi-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/fork repo-000?style=for-the-badge&logo=github&logoColor=white'/></a>
+ 
+ <a href='Heroku.com/deploy?template=https://github.com/whiteshadowofficial/Jessi-md' target="_blank"><img alt='Deploy Heroku' src='https://img.shields.io/badge/deploy heroku-000?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+ 
+
+### Deploy to Replit
+
+ <a href='https://replit.com/github/whiteshadowofficial/Jessi-md' target="_blank"><img alt='Run Replit' src='https://img.shields.io/badge/Run Replit-000?style=for-the-badge&logo=Replit&logoColor=white'/></a>
+
+---------
 
   ### Simple Method
   
