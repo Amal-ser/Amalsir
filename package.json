@@ -1,5 +1,5 @@
 {
-    "name": "Jessi-md",
+    "name": "AmalSir-md",
     "version": "4.8.0",
     "description": "Simple WhatsApp Bot MD With ESM Module",
     "main": "index.js",
@@ -23,7 +23,7 @@
         "wa-md",
         "js-whatsapp",
         "whatsapp-js",
-        "lua-Bot",
+        "Amalsir-Bot",
         "whatsapp",
         "Games-wabot",
         "wabot-aq",
@@ -31,16 +31,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/whiteshadowofficial/Jessi-md",
+    "homepage": "https://github.com/Amal-ser/Amalsir",
     "author": {
-        "name": "LUA SER OFC"
+        "name": "AmalSir & Mr.White Shadow"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/whiteshadowofficial/Jessi-md.git"
+        "url": "git+https://github.com/Amal-ser/Amalsir.git"
     },
     "bugs": {
-        "url": "https://github.com/whiteshadowofficial/Jessi-md/issues"
+        "url": "https://github.com/Amal-ser/Amalsir/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
